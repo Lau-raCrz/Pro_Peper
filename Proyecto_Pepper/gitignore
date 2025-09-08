@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+__pycache__/
+*.pyc
+
+# Archivos temporales
+*.log
+*.mp4
+*.mp3
+*.wav
+*.tmp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db

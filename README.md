@@ -1,0 +1,3 @@
+# Proyecto Final – Sistemas Digitales
+
+Este proyecto final de la asignatura de Sistemas Digitales integra hardware y software para demostrar la interacción con el robot Pepper, el cual fue programado para realizar la presentación de tres novedades tecnológicas: **energía undimotriz inteligente y su impacto en los sistemas digitales, robots blandos (soft robotics) y su innovación en los sistemas digitales, y terapias con exosomas modificados**; además, se desarrolló un chatbot personalizado y se implementó un dashboard que centraliza todas las funciones y resultados del trabajo, acompañado de la documentación respectiva y gestionado mediante Git y GitHub para asegurar organización, trazabilidad y colaboración en el proceso de desarrollo.
